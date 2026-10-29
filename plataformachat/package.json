@@ -1,7 +1,7 @@
 {
-  "name": "chatcontabil-frontend",
-  "version": "1.0.0",
-  "description": "Interface conversacional e visualização de dados do sistema Chat Contábil",
+  "name": "controller-intelligence-frontend",
+  "version": "2.0.0",
+  "description": "Interface conversacional com blocos visuais interativos, governança RBAC e editor de automação em grafos do ecossistema Controller Intelligence (Contábil, Fiscal e Departamento Pessoal)",
   "author": "Christian Sousa",
   "private": true,
   "type": "module",
@@ -20,7 +20,10 @@
     "lucide-react": "^0.562.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-markdown": "^10.1.0",
     "react-router-dom": "^7.10.1",
+    "recharts": "^3.8.1",
+    "remark-gfm": "^4.0.1",
     "undici": "^7.16.0"
   },
   "devDependencies": {
